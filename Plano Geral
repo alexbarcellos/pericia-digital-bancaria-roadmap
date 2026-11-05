@@ -1,0 +1,173 @@
+Considerando sua sólida experiência em Grafotecnia e Documentoscopia Judicial, a estratégia mais eficiente é migrar para a área de Perícia Digital aplicada a fraudes bancárias e contratos eletrônicos, aproveitando sua expertise em autenticidade documental, comparação pericial e produção de prova técnica judicial.
+
+Rotina diária de estudos (12 meses)
+Fundamentos Periciais Digitais
+Estudar cadeia de custódia da prova digital.
+Estudar integridade, autenticidade, auditabilidade e rastreabilidade da evidência digital.
+Dominar hash criptográfico (MD5, SHA-1, SHA-256, SHA-512).
+Estudar metadados e sua relevância probatória.
+Ler jurisprudências sobre validade da prova digital.
+Estudar LGPD aplicada à atividade pericial.
+Estudar Marco Civil da Internet.
+Estudar Resoluções do Banco Central relacionadas à autenticação digital.
+Estudar normas ISO aplicáveis às evidências digitais.
+Elaborar resumos técnicos e modelos de laudos.
+Sistemas Operacionais
+Aprender arquitetura Windows.
+Aprender Registro do Windows (Registry Forensics).
+Aprender Event Viewer e Logs do Windows.
+Aprender Linux básico para investigação.
+Estudar logs de autenticação Linux.
+Aprender análise de processos e artefatos de sistema.
+Estudar memória RAM e técnicas de Live Forensics.
+Redes e Rastreamento
+Estudar TCP/IP.
+Estudar IPv4 e IPv6.
+Estudar NAT e CGNAT.
+Estudar DNS.
+Estudar VPN e Proxy.
+Estudar MAC Address.
+Estudar análise de tráfego de rede.
+Aprender Wireshark.
+Aprender interpretação de logs bancários.
+Aprender correlação temporal entre eventos.
+Perícia em Contratos Bancários Digitais
+Estudar assinatura eletrônica simples, avançada e qualificada.
+Estudar ICP-Brasil.
+Estudar certificados digitais.
+Estudar biometria facial.
+Estudar biometria comportamental.
+Estudar OCR e reconhecimento documental.
+Estudar prova de vida (Liveness Detection).
+Estudar selfies bancárias.
+Estudar onboarding digital.
+Estudar logs de contratação.
+Estudar trilha de auditoria.
+Aprender validação técnica de contratos eletrônicos.
+Biometria e Reconhecimento Facial
+Estudar algoritmos de reconhecimento facial.
+Estudar FMR, FNMR e FAR.
+Estudar spoofing facial.
+Estudar ataques Presentation Attack.
+Estudar deepfake detection.
+Aprender análise de inconsistências biométricas.
+Estudar comparação facial forense.
+Estudar análise de imagens e vídeos para identificação humana.
+Telefonia e Geolocalização
+Estudar ERB (Estação Rádio Base).
+Estudar CDR (Call Detail Records).
+Estudar IMSI.
+Estudar IMEI.
+Estudar triangulação celular.
+Estudar geolocalização por GPS.
+Estudar geolocalização por rede.
+Estudar análise temporal de deslocamento.
+Aprender leitura de relatórios de operadoras.
+Perícia em Dispositivos Móveis
+Android Forensics.
+iOS Forensics.
+Aquisição física e lógica.
+Extração de aplicativos bancários.
+WhatsApp Forensics.
+Metadados de imagens.
+Recuperação de arquivos excluídos.
+Timeline Forensics.
+Inteligência Artificial e Fraudes Modernas
+Estudar deepfakes.
+Estudar clonagem de voz.
+Estudar fraudes biométricas.
+Estudar detecção de manipulação de imagens.
+Estudar detecção de documentos gerados por IA.
+Estudar antifraude bancária baseada em IA.
+Laudos e Assistência Técnica
+Desenvolver modelos próprios de laudos digitais.
+Criar banco de quesitos para perícias bancárias digitais.
+Criar metodologia híbrida Grafo-Documentoscopia + Digital.
+Elaborar pareceres simulados semanalmente.
+Treinar sustentação técnica em audiência.
+Ferramentas que vale dominar
+Autopsy
+FTK Imager
+Magnet AXIOM
+Cellebrite
+Oxygen Forensics
+X-Ways
+EnCase
+Wireshark
+OSINT Framework
+Maltego
+Belkasoft
+Amped Authenticate
+Amped FIVE
+PDFs e materiais obrigatórios
+1. ISO/IEC 27037 (referência mundial da prova digital)
+
+Diretrizes para identificação, coleta, aquisição e preservação de evidências digitais. É uma das normas mais importantes da área.
+
+Link: https://www.abntcatalogo.com.br/norma.aspx?ID=307273
+
+Resumo: https://academiadeforensedigital.com.br/iso-27037-identificacao-coleta-aquisicao-e-preservacao-de-evidencia/
+
+2. Cadeia de Custódia da Prova Digital (CJF)
+
+Excelente compilação bibliográfica para atuação judicial.
+
+PDF: https://www.cjf.jus.br/caju/infocaju_579_cadeia_custodia_prova_digital.pdf
+
+3. Digital Forensics Handbook (ENISA)
+
+Manual europeu amplamente utilizado para formação de peritos digitais.
+
+PDF: https://www.enisa.europa.eu/sites/default/files/2024-10/digital-forensics-handbook.pdf
+
+4. ENFSI Best Practice Manual
+
+Referência internacional para exame forense digital.
+
+PDF: https://enfsi.eu/wp-content/uploads/2016/09/1._forensic_examination_of_digital_technology_0.pdf
+
+5. Guias ENFSI para Comparação Facial
+
+Importante para biometria facial e reconhecimento facial forense.
+
+Página: https://enfsi.eu/about-enfsi/structure/working-groups/documents-page/documents/best-practice-manuals/
+
+6. Cartilha CERT.br
+
+Leitura básica obrigatória para compreensão de incidentes, logs e rastreabilidade.
+
+PDF: https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf
+
+Vídeos altamente recomendados
+Dr. José Milagre
+
+Como provar fraude em contratos bancários online. Voltado para perícia digital judicial.
+
+https://www.youtube.com/watch?v=IV5Bg2yWZdc
+
+Silvana de Oliveira
+
+Biometria vs Selfie e a Perícia nos Contratos Bancários. Excelente para quem vem da grafotecnia.
+
+https://www.youtube.com/watch?v=f4HN2pZJRGE
+
+Casos reais de fraude biométrica
+
+Fraudes em reconhecimento facial e empréstimos digitais. Útil para entender o modus operandi atual das fraudes bancárias.
+
+https://www.youtube.com/watch?v=t8at93-KUAU
+
+Posicionamento estratégico para o mercado judicial
+
+Seu diferencial não será competir com um perito puramente de TI. O diferencial mais valorizado atualmente é atuar como:
+
+Perito Grafotécnico Digital;
+Perito em Contratos Bancários Digitais;
+Perito em Biometria Facial Judicial;
+Assistente Técnico em Fraudes Bancárias;
+Especialista em Assinaturas Eletrônicas e Evidências Digitais;
+Especialista em Contestação de Contratos Digitais.
+
+Hoje os processos envolvendo biometria facial, IP, geolocalização, selfie, liveness, token, assinatura eletrônica e logs bancários estão crescendo rapidamente nos TJs, especialmente em ações de empréstimos consignados, contas digitais, abertura fraudulenta de contas, golpes por reconhecimento facial e contratos eletrônicos contestados.
+
+A sua formação em Grafotecnia + Documentoscopia lhe dá uma vantagem rara: você já domina a análise de autenticidade. O próximo passo é dominar a autenticidade dos vestígios digitais. Isso cria um nicho extremamente valorizado no Judiciário.
