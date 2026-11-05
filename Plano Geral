@@ -171,3 +171,157 @@ Especialista em Contestação de Contratos Digitais.
 Hoje os processos envolvendo biometria facial, IP, geolocalização, selfie, liveness, token, assinatura eletrônica e logs bancários estão crescendo rapidamente nos TJs, especialmente em ações de empréstimos consignados, contas digitais, abertura fraudulenta de contas, golpes por reconhecimento facial e contratos eletrônicos contestados.
 
 A sua formação em Grafotecnia + Documentoscopia lhe dá uma vantagem rara: você já domina a análise de autenticidade. O próximo passo é dominar a autenticidade dos vestígios digitais. Isso cria um nicho extremamente valorizado no Judiciário.
+
+***********************************
+Abaixo está uma Matriz de Competências e Certificações para Perito Judicial em Contratos Bancários Digitais, construída para alguém que já possui maturidade em Grafotecnia e Documentoscopia e deseja atingir nível de referência nacional em fraudes bancárias digitais.
+
+MATRIZ DE COMPETÊNCIAS
+Eixo de Competência	Conhecimento	Nível Atual	Nível AlvoGrafotecnia	Assinaturas manuscritas	Avançado	Especialista
+Documentoscopia	Exames documentais	Avançado	Especialista
+Contratos Bancários	Modalidades contratuais	Intermediário	Especialista
+ICP-Brasil	Certificados digitais	Básico	Avançado
+Assinaturas Eletrônicas	Lei 14.063/2020	Básico	Especialista
+Evidência Digital	Cadeia de Custódia	Iniciante	Especialista
+Perícia Digital	Coleta e preservação	Iniciante	Especialista
+Redes	TCP/IP e DNS	Iniciante	Avançado
+Logs	Auditoria e correlação	Iniciante	Avançado
+Geolocalização	GPS e ERBs	Iniciante	Avançado
+Telefonia	CDR, IMEI e IMSI	Iniciante	Avançado
+Sistemas Operacionais	Windows Forensics	Iniciante	Avançado
+Sistemas Operacionais	Linux Forensics	Iniciante	Intermediário
+Biometria Facial	Face Match	Básico	Especialista
+IA Aplicada	Deepfake Detection	Iniciante	Avançado
+Mobile Forensics	Android e iOS	Iniciante	Avançado
+Imagens e Vídeos	Autenticação digital	Iniciante	Avançado
+Laudos Técnicos	Evidência Digital	Básico	Especialista
+Assistência Técnica	Contratos Bancários	Intermediário	Especialista
+Audiência Judicial	Sustentação técnica	Intermediário	Especialista
+MATRIZ DE CERTIFICAÇÕES
+TRILHA 1 - FUNDAMENTAÇÃO (0 a 6 meses)
+Certificação	Tipo	PrioridadeLGPD - EV.G	Gratuita	Muito Alta
+Segurança da Informação - EV.G	Gratuita	Muito Alta
+Introdução à Perícia Digital	Gratuita	Muito Alta
+Networking Basics (Cisco)	Gratuita	Muito Alta
+Introduction to Cybersecurity (Cisco)	Gratuita	Muito Alta
+Microsoft Security Fundamentals	Gratuita	Alta
+Introduction to Linux	Gratuita	Alta
+
+Objetivo:
+
+Construir vocabulário técnico.
+Compreender linguagem utilizada por bancos, fintechs e empresas antifraude.
+TRILHA 2 - PERITO DIGITAL JUDICIAL (6 a 12 meses)
+Certificação	Tipo	PrioridadeEXIN Information Security Foundation	Internacional	Muito Alta
+ISO 27001 Foundation	Internacional	Muito Alta
+ISO 27037 Evidence Handling	Internacional	Alta
+Cybersecurity Analyst Cisco	Internacional	Alta
+Perícia Digital Aplicada ao Processo Judicial	Nacional	Muito Alta
+
+Objetivo:
+
+Produzir laudos tecnicamente robustos.
+Atuar em nomeações judiciais envolvendo provas digitais.
+
+A norma ABNT NBR ISO/IEC 27037 é referência para identificação, coleta, aquisição e preservação de evidências digitais.
+
+TRILHA 3 - CONTRATOS BANCÁRIOS DIGITAIS (12 a 18 meses)
+Competência	Certificação RecomendadaICP-Brasil	Certificação ICP e Assinaturas Eletrônicas
+Certificados Digitais	Cursos ITI
+Biometria Facial	Face Recognition
+Liveness Detection	Especialização em Antifraude
+Open Finance	Cursos Banco Central
+Compliance Bancário	FEBRABAN
+
+Objetivo:
+
+Tornar-se especialista em:
+
+Empréstimo consignado digital;
+Conta digital fraudulenta;
+Biometria facial;
+Selfie banking;
+Geolocalização;
+Tokenização;
+Trilha de auditoria.
+
+Casos envolvendo biometria facial, endereço IP, geolocalização e trilhas de auditoria já aparecem em decisões judiciais relativas a contratos bancários digitais.
+
+TRILHA 4 - FORENSE DIGITAL AVANÇADA (18 a 36 meses)
+Certificação	Peso no MercadoCHFI (EC-Council)	Alto
+CompTIA Security+	Alto
+CompTIA CySA+	Alto
+GCFE (GIAC)	Muito Alto
+GCFA (GIAC)	Muito Alto
+GNFA (GIAC)	Muito Alto
+
+Objetivo:
+
+Tornar-se referência em perícias complexas.
+Atuar como assistente técnico em grandes escritórios.
+MATRIZ DE FERRAMENTAS
+Ferramenta	PrioridadeFTK Imager	Obrigatória
+Autopsy	Obrigatória
+Wireshark	Obrigatória
+Magnet AXIOM	Alta
+Cellebrite	Alta
+Belkasoft	Alta
+X-Ways	Alta
+EnCase	Alta
+Amped Authenticate	Muito Alta
+Amped FIVE	Muito Alta
+Maltego	Média
+OSINT Framework	Média
+MATRIZ DE ESPECIALIZAÇÃO PARA O SEU PERFIL
+Fase 1
+
+✅ Grafotecnia
+ ✅ Documentoscopia
+ ✅ Contratos Bancários
+
+Fase 2
+
+✅ Assinaturas Eletrônicas
+ ✅ ICP-Brasil
+ ✅ Cadeia de Custódia Digital
+ ✅ Evidências Digitais
+
+Fase 3
+
+✅ Logs
+ ✅ IP
+ ✅ Geolocalização
+ ✅ Telefonia
+
+Fase 4
+
+✅ Biometria Facial
+ ✅ Liveness Detection
+ ✅ Deepfakes
+ ✅ Reconhecimento Facial Forense
+
+Fase 5
+
+✅ Mobile Forensics
+ ✅ Android Forensics
+ ✅ WhatsApp Forensics
+ ✅ Fraudes Bancárias Complexas
+
+Objetivo Profissional Final (36 meses)
+
+Perito Judicial Especialista em Grafotecnia, Documentoscopia e Evidências Digitais Aplicadas a Contratos Bancários Eletrônicos
+
+Áreas de atuação:
+
+Empréstimos consignados digitais;
+Assinaturas eletrônicas contestadas;
+Biometria facial;
+Selfie banking;
+Fraudes em onboarding digital;
+Geolocalização;
+Endereços IP;
+Logs de autenticação;
+WhatsApp e dispositivos móveis;
+Deepfake e falsidade biométrica;
+Assistência técnica em bancos e fintechs.
+
+Esse posicionamento é atualmente um dos nichos mais promissores da perícia judicial, porque une a autenticação documental tradicional à análise de evidências digitais, incluindo biometria, trilhas de auditoria e prova digital.
