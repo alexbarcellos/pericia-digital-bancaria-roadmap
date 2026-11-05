@@ -1,0 +1,21 @@
+pericia-digital-contratos-bancarios/
+│
+├── README.md
+├── docs/
+│   ├── matriz-competencias.md
+│   ├── plano-estudos-36-meses.md
+│   ├── certificacoes.md
+│   ├── bibliografia.md
+│   ├── ferramentas.md
+│   └── jurisprudencia.md
+│
+├── templates/
+│   ├── modelo-laudo-digital.md
+│   ├── modelo-parecer-tecnico.md
+│   ├── quesitos-banco.md
+│   └── checklist-prova-digital.md
+│
+└── resources/
+    ├── links-videos.md
+    ├── links-pdfs.md
+    └── normas.md
